@@ -1,2 +1,2 @@
 # Python
-Basic python programs for brginners 
+Basic Python programs for beginners. 
